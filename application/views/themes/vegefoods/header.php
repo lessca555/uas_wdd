@@ -104,5 +104,19 @@ defined('BASEPATH') or exit('No direct script access allowed');
 		</div>
 	</nav>
 
+<script>
+    // Mendapatkan URL halaman saat ini
+    var currentUrl = window.location.href;
 
+    // Mendapatkan semua elemen menu navbar
+    const menuItems = document.querySelectorAll('.navbar-nav .nav-item');
+
+    // Loop melalui setiap menu dan periksa apakah URL sesuai
+    menuItems.forEach(item => {
+        if (item.href === currentUrl) {
+            // Menambahkan kelas 'active' ke menu yang sesuai dengan URL saat ini
+            item.classList.add('active');
+        }
+    });
+</script>
 	<!-- END nav -->

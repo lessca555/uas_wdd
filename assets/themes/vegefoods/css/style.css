@@ -279,11 +279,17 @@ select {
 	background-color: #72344b;
 }
 
+.about .cta,
 .hero .cta {
 	background-color: #f14787;
 	color: #fff;
 }
 
+.about .cta:hover{
+	background-color: transparent;
+	color: #000;
+	border: 1px solid #000;
+}
 .hero .cta:hover {
 	background-color: transparent;
 	color: #fff;

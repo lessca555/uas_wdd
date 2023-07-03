@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 ?>
-<div class="hero-wrap hero-bread" style="background-image: url('<?php echo get_theme_uri('images/bg_1.jpg'); ?>');">
+<div class="hero-wrap hero-bread" style="background-image: url('https://images.unsplash.com/photo-1567196279979-3bf2f62e8d35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=773&q=80');">
   <div class="container">
     <div class="row no-gutters slider-text align-items-center justify-content-center">
       <div class="col-md-9 ftco-animate text-center">
@@ -11,23 +11,23 @@ defined('BASEPATH') or exit('No direct script access allowed');
     </div>
   </div>
 </div>
-<section class="ftco-section ftco-no-pb ftco-no-pt bg-light">
+<section class="ftco-section ftco-no-pb ftco-no-pt bg-light about">
   <div class="container">
     <div class="row">
-      <div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url(<?php echo get_theme_uri('images/about.jpg'); ?>);">
-        <a href="https://vimeo.com/45830194" class="icon popup-vimeo d-flex justify-content-center align-items-center">
+      <div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url('https://images.unsplash.com/photo-1578911373434-0cb395d2cbfb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80');">
+        <a href="https://vimeo.com/9902999" class="icon popup-vimeo d-flex justify-content-center align-items-center" style="background-color: #72344B;">
           <span class="icon-play"></span>
         </a>
       </div>
       <div class="col-md-7 py-5 wrap-about pb-md-5 ftco-animate">
         <div class="heading-section-bold mb-4 mt-md-5">
           <div class="ml-md-0">
-            <h2 class="mb-4">Selamat Datang di Toko Sayur Cv.TATA LARAS SEJATI </h2>
+            <h2 class="mb-4">Welcome to Winery, we glad you here! </h2>
           </div>
         </div>
         <div class="pb-md-5">
           <p><?php echo get_settings('store_description'); ?></p>
-          <p><a href="<?php echo site_url('browse'); ?>" class="btn btn-primary">Belanja sekarang!</a></p>
+          <p><a href="<?php echo site_url('browse'); ?>" class="btn cta">Belanja sekarang!</a></p>
         </div>
       </div>
     </div>

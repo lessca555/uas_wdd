@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 ?>
-<div class="hero-wrap hero-bread" style="background-image: url('<?php echo get_theme_uri('images/bg_1.jpg'); ?>');">
+<div class="hero-wrap hero-bread" style="background-image: url('https://images.unsplash.com/photo-1567196279979-3bf2f62e8d35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=773&q=80');">
   <div class="container">
     <div class="row no-gutters slider-text align-items-center justify-content-center">
       <div class="col-md-9 ftco-animate text-center">
@@ -18,17 +18,17 @@ defined('BASEPATH') or exit('No direct script access allowed');
       <div class="w-100"></div>
       <div class="col-md-3 d-flex">
         <div class="info bg-white p-4">
-          <p><span>Alamat</span>  Jl.Cancer No.49 Ploso Tambaksari Surabaya</p>
+          <p><span>Alamat</span>  Jl.Mulyosari BPD Blok I no 17 Surabaya</p>
         </div>
       </div>
       <div class="col-md-3 d-flex">
         <div class="info bg-white p-4">
-          <p><span>No. HP</span> 0813-3055-5139</p>
+          <p><span>No. HP</span> 0878-5470-1779</p>
         </div>
       </div>
       <div class="col-md-3 d-flex">
         <div class="info bg-white p-4">
-          <p><span>Email:</span>rudinyayur22@gmail.com </p>
+          <p><span>Email:</span>christianse25@gmail.com </p>
         </div>
       </div>
       <div class="col-md-3 d-flex">
@@ -68,7 +68,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
       </div>
 
       <div class="col-md-6 d-flex">
-      <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=toko%20rudi%20sayur&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies2.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">adding a google map to your website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
+      <div class="mapouter"><div class="gmap_canvas">
+							<iframe src="https://www.google.com/maps/embed?pb=!4v1688375151982!6m8!1m7!1srimfOwEXqWe_dy0O2bLyrQ!2m2!1d-7.26504052610679!2d112.8015097799339!3f265.1424560546875!4f0.7208404541015625!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+					<a href="https://fmovies2.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">adding a google map to your website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
       </div>
     </div>
   </div>
