@@ -51,11 +51,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <!-- Main Sidebar Container -->
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
-    <a href="<?php echo get_store_logo(); ?>" class="brand-link">
-      <img src="<?php echo get_store_logo(); ?>" alt="<?php echo get_store_name(); ?> Logo" class="brand-image img-circle elevation-3"
-           style="opacity: .8">
-      <span class="brand-text font-weight-light"><?php echo get_store_name(); ?></span>
-    </a>
+		<center>
+			<a class="navbar-brand" href="<?php echo base_url(); ?>" style="color: #fff; text-decoration: none; font-weight: 700;">TENDA<span style="color: #c21d61;">RY'S</span></a>
+		</center>
 
     <!-- Sidebar -->
     <div class="sidebar">
