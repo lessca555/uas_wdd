@@ -68,7 +68,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
           <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
           Copyright &copy;<script>
             document.write(new Date().getFullYear());
-          </script> All rights reserved | Made with CV. Tata Laras Sejati<i class="icon-heart text-danger" aria-hidden="true"></i> for every people.
+          </script> All rights reserved | Edited by:  <a target="_blank" href="https://oneyedchris.site/">Christian</a>
           <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
         </p>
       </div>

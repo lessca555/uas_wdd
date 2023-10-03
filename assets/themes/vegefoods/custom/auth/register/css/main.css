@@ -118,6 +118,7 @@ button {
    ========================================================================== */
 .page-wrapper {
   min-height: 100vh;
+	background-color: #72344B;
 }
 
 body {
@@ -472,7 +473,7 @@ input {
 }
 
 .card-2 .card-heading {
-  background: url("../images/bg-heading-02.jpg") top left/cover no-repeat;
+  background: url("https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80") top left/cover no-repeat;
   width: 29.1%;
   display: table-cell;
 }
@@ -481,6 +482,10 @@ input {
   display: table-cell;
   padding: 80px 90px;
   padding-bottom: 88px;
+}
+
+.btn-daftar{
+	background-color: #F14787;
 }
 
 @media (max-width: 767px) {

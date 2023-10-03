@@ -23,17 +23,17 @@ defined('BASEPATH') or exit('No direct script access allowed');
       </div>
       <div class="col-md-3 d-flex">
         <div class="info bg-white p-4">
-          <p><span>No. HP</span> 0878-5470-1779</p>
+          <p><span>WHATSAPP:</span> 0878-5470-1779</p>
         </div>
       </div>
       <div class="col-md-3 d-flex">
         <div class="info bg-white p-4">
-          <p><span>Email:</span>christianse25@gmail.com </p>
+          <p><span>Email:</span> christianse25@gmail.com </p>
         </div>
       </div>
       <div class="col-md-3 d-flex">
         <div class="info bg-white p-4">
-          <p><span>Website</span> www.tatalarasejati.com</p>
+          <p><span>Website</span> <a href="https://oneyedchris.site/">https://oneyedchris.site/</a></p>
         </div>
       </div>
     </div>
@@ -61,7 +61,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
             <?php echo form_error('message'); ?>
           </div>
           <div class="form-group">
-            <input type="submit" value="Kirim Pesan" class="btn btn-primary py-3 px-5">
+            <input type="submit" value="Kirim Pesan" class="btn btn-contact py-3 px-5">
           </div>
         </form>
 

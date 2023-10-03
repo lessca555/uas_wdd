@@ -37,7 +37,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 
 <body>
-    <div class="page-wrapper bg-red p-t-180 p-b-100 font-robo">
+    <div class="page-wrapper p-t-180 p-b-100 font-robo">
         <div class="wrapper wrapper--w960">
             <div class="card card-2">
                 <div class="card-heading"></div>
@@ -82,7 +82,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <?php echo form_error('address'); ?>
                         </div>
                         <div class="p-t-30">
-                            <button class="btn btn--radius btn--green" type="submit">Daftar</button>
+                            <button class="btn btn--radius btn-daftar" type="submit">Daftar</button>
                         </div>
                     </form>
                 </div>
